@@ -147,3 +147,23 @@ button:hover {
     color: white;
     background-color: #f24230;
 }
+
+dialog {
+    padding: 0;
+    border: none;
+    border-radius: 1rem;
+}
+.dialog-container {
+    border: 1px solid lightgrey;
+    border-radius: 1px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem 3rem;
+}
+
+dialog button {
+    color: white;
+    border-radius: .3rem;
+    background-color: green; 
+}
