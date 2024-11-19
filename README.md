@@ -3,6 +3,9 @@
 ## Overview
 This To-Do List website allows users to manage their tasks efficiently. It includes features such as adding, editing, deleting tasks, auto-sorting, searching through tasks, and saving tasks to local storage.
 
+![image](https://github.com/user-attachments/assets/6b1d6ea6-ca7c-4bcf-858c-236a407747b9)
+
+
 ## Features
 - **Add Task**: Users can add new tasks with a title and optional description.
 - **Edit Task**: Users can edit existing tasks to update their details.
